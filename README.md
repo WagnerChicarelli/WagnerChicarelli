@@ -19,4 +19,4 @@
  
   
   ##
-  ![Visitor Count](https://profile-counter.glitch.me/gabrielsalesls/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/WagnerChicarelli/count.svg)
