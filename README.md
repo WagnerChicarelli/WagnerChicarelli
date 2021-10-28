@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! 👋 🇧🇷 🇯🇵
 - 🔭 Desenvolvedor Junior, atualmente trabalho com C#.
 - 🌱 Estudando Python.
 - 😄 Pronomes: Ele/Dele.
