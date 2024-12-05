@@ -1,6 +1,6 @@
 ### Olá! 👋 
 - 🔭 Desenvolvedor Junior, atualmente trabalhando como Engenheiro de Software.
-- 🌱 Estudando Python.
+- 🌱 Estudando DB.
 - 😄 Pronomes: Ele/Dele.
 
 <div align="center">
