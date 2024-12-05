@@ -1,5 +1,5 @@
 ### Olá! 👋 
-- 🔭 Desenvolvedor Junior, atualmente trabalho com C#.
+- 🔭 Desenvolvedor Junior, atualmente trabalhando como Engenheiro de Software focado em Sistemas Interno(Intranet).
 - 🌱 Estudando Python.
 - 😄 Pronomes: Ele/Dele.
 
