@@ -1,5 +1,5 @@
 ### Olá! 👋 
-- 🔭 Desenvolvedor Junior, atualmente trabalhando como Engenheiro de Software focado em Sistemas Interno(Intranet).
+- 🔭 Desenvolvedor Junior, atualmente trabalhando como Engenheiro de Software.
 - 🌱 Estudando Python.
 - 😄 Pronomes: Ele/Dele.
 
