@@ -42,8 +42,13 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=WagnerChicarelli&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerChicarelli&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WagnerChicarelli&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerChicarelli&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ###
 
@@ -59,4 +64,4 @@
 </div>
 
 ###
-![Snake animation](https://github.com/WagnerChicarelli/WagnerChicarelli/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/WagnerChicarelli/WagnerChicarelli/output/github-contribution-grid-snake.svg)
