@@ -43,11 +43,15 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WagnerChicarelli&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WagnerChicarelli&show_icons=true&theme=radical&hide_border=true&count_private=true" onerror="this.style.display='none'" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerChicarelli&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerChicarelli&layout=compact&theme=radical&hide_border=true" onerror="this.style.display='none'" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WagnerChicarelli&theme=radical&no-frame=true&no-bg=true" onerror="this.style.display='none'" />
 </p>
 
 ###
