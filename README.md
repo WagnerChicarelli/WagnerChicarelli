@@ -1,32 +1,62 @@
-### Olá! 👋 
-- 🔭 Desenvolvedor Junior, atualmente trabalhando como Engenheiro de Software.
-- 🌱 Estudando Pythom.
-- 😄 Pronomes: Ele/Dele.
+### Hello 👋, I'm [Wagner Chicarelli](https://www.linkedin.com/in/wagnerchicarelli/)!
 
-<div align="center">
-  <a href="https://github.com/WagnerChicarelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerChicarelli&layout=compact&langs_count=7&theme=dark"/>
+###
+
+<p align="left">Desenvolvedor Back-end apaixonado por construir APIs robustas e escaláveis. Atualmente focado em Node.js, arquitetura em camadas e boas práticas de desenvolvimento.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+🔭 Estou trabalhando no **Plant Journal** — uma API REST para gerenciar cuidados com plantas, aplicando conceitos de arquitetura em camadas, banco de dados e CI/CD.<br/>
+🌱 Atualmente estudando **Node.js**, **Express**, **SQLite/PostgreSQL** e **Docker**.<br/>
+🎯 Objetivo: evoluir de CRUD simples para aplicações full-stack com autenticação, testes e deploy automatizado.
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+<div style="display: inline_block">
+<img align="center" alt="nodejs logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
+<img width="12" />
+<img align="center" alt="express logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg">
+<img width="12" />
+<img align="center" alt="javascript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
+<img width="12" />
+<img align="center" alt="postgresql logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+<img width="12" />
+<img align="center" alt="docker logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
+<img width="12" />
+<img align="center" alt="git logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg">
+<img width="12" />
+<img align="center" alt="python logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
+<img width="12" />
+<img align="center" alt="java logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+<img width="12" />
+<img align="center" alt="csharp logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wagner-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Wagner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Wagner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" class="animated-gif" alt="Chicarelli-rei" src="https://i.redd.it/grm30mw8wr231.gif" width="210" height="300">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:chicarelli.wagner@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wagnerchicarelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-    
+###
 
-</div>
-  
-  ##
- ![Visitor Count](https://profile-counter.glitch.me/WagnerChicarelli/count.svg)
-  
- ![Snake animation](https://github.com/WagnerChicarelli/WagnerChicarelli/blob/output/github-contribution-grid-snake.svg)
+<h2 align="left">GitHub Stats</h2>
 
+![](https://github-readme-stats.vercel.app/api?username=WagnerChicarelli&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerChicarelli&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+###
+
+<h2 align="left">Contact</h2>
+
+<div align="left">
+  <a href="mailto:chicarelli.wagner@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/google/google-original.svg" width="40" height="40" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/wagnerchicarelli/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
+  </a>
+</div>
+
+###
+![Snake animation](https://github.com/WagnerChicarelli/WagnerChicarelli/blob/output/github-contribution-grid-snake.svg)
