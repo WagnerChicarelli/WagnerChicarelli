@@ -53,6 +53,7 @@
 <div align="left">
   <a href="mailto:chicarelli.wagner@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/google/google-original.svg" width="40" height="40" alt="gmail" />
+    <img width="12" />
   </a>
   <a href="https://www.linkedin.com/in/wagnerchicarelli/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
