@@ -10,9 +10,11 @@
 
 ###
 
-🔭 Estou trabalhando no **Plant Journal** — uma API REST para gerenciar cuidados com plantas, aplicando conceitos de arquitetura em camadas, banco de dados e CI/CD.<br/>
-🌱 Atualmente estudando **Node.js**, **Express**, **SQLite/PostgreSQL** e **Docker**.<br/>
-🎯 Objetivo: evoluir de CRUD simples para aplicações full-stack com autenticação, testes e deploy automatizado.
+🔭 Estou trabalhando em dois projetos:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>Plant Journal</strong> — API REST + Frontend para gerenciar cuidados com plantas (Node.js, Express, React, PostgreSQL)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• <strong>AI Agent</strong> — CLI interativo com agente de IA usando LangChain.js e Ollama (LLM local)<br/>
+🌱 Atualmente estudando <strong>Node.js</strong>, <strong>TypeScript</strong>, <strong>LangChain</strong>, <strong>Docker</strong> e <strong>CI/CD</strong>.<br/>
+🎯 Objetivo: evoluir de CRUD simples para aplicações full-stack com IA, autenticação e deploy automatizado.
 
 ###
 
@@ -21,9 +23,11 @@
 <div style="display: inline_block">
 <img align="center" alt="nodejs logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg">
 <img width="12" />
+<img align="center" alt="typescript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+<img width="12" />
 <img align="center" alt="express logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg">
 <img width="12" />
-<img align="center" alt="javascript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="react logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg">
 <img width="12" />
 <img align="center" alt="postgresql logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
 <img width="12" />
@@ -47,6 +51,9 @@
 </p>
 
 ###
+![Snake animation](https://raw.githubusercontent.com/WagnerChicarelli/WagnerChicarelli/output/github-contribution-grid-snake.svg)
+
+###
 
 <h2 align="left">Contact</h2>
 
@@ -56,9 +63,6 @@
     <img width="12" />
   </a>
   <a href="https://www.linkedin.com/in/wagnerchicarelli/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="40" height "40" alt="linkedin" />
   </a>
 </div>
-
-###
-![Snake animation](https://raw.githubusercontent.com/WagnerChicarelli/WagnerChicarelli/output/github-contribution-grid-snake.svg)
